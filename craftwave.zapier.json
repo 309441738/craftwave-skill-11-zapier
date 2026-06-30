@@ -1,0 +1,10 @@
+{
+  "title": "邮轮产品智能助手",
+  "description": "通过智能助手帮助客户快速找到合适的邮轮产品，轻松获取信息与建议。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
